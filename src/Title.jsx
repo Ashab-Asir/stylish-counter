@@ -1,5 +1,5 @@
 export default function Title() {
   return (
-    <h1>Stylish Counter</h1>
+    <h1 className="title">Stylish Counter</h1>
   )
 }
