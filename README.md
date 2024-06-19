@@ -11,8 +11,7 @@ Welcome to the Stylish Counter project! This is a simple yet functional counter 
 - Dynamic styling based on the count value
 
 ## Demo
-
-![Stylish Counter Demo](![Screenshot_8](https://github.com/Ashab-Asir/stylish-counter/assets/113583194/0ddd4ec9-1ae1-4308-8461-0c9970908961))
+(![Screenshot_8](https://github.com/Ashab-Asir/stylish-counter/assets/113583194/0ddd4ec9-1ae1-4308-8461-0c9970908961)
 
 ## Technologies Used
 
