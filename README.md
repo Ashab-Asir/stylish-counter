@@ -1,8 +1,29 @@
-# React + Vite
+# Stylish Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Stylish Counter project! This is a simple yet functional counter application built using React and CSS. The Stylish Counter allows users to increase, decrease, and reset a count. It also includes a locking mechanism that prevents the count from exceeding specified limits.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Increase the count
+- Decrease the count
+- Reset the count
+- Lock the counter when limits are exceeded
+- Dynamic styling based on the count value
+
+## Demo
+
+![Stylish Counter Demo](link-to-demo-gif-or-screenshot)
+
+## Technologies Used
+
+- React
+- CSS
+
+## Learning Outcomes
+
+While building this project, I learned:
+- How to use the `useState` hook in React
+- Component rendering patterns
+- Props drilling
+- Changing CSS dynamically based on some logic
+- Conditional rendering in React
